@@ -3,7 +3,7 @@
 > This app does not contain all the features of Instagram.
 
 > or
-> Download apk here: https://github.com/NachiketGohil/InstagramClone/raw/master/InstagramClone.apk
+> Download apk directly from here: https://github.com/NachiketGohil/InstagramClone/raw/master/InstagramClone.apk
 
 Available features are as follows
 - Register, Sign in and Sign out
