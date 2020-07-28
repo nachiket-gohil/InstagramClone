@@ -2,7 +2,6 @@
 > This is basic Instagram app using Firebase as backend service.
 > This app does not contain all the features of Instagram.
 
-> or
 > Download apk directly from here: https://github.com/NachiketGohil/InstagramClone/raw/master/InstagramClone.apk
 
 Available features are as follows
